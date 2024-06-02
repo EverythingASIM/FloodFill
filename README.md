@@ -1,4 +1,4 @@
-# Flood Fill / Seed Fill Algorithm Implementation in Unity
+# Flood Fill / Seed Fill Algorithm Implementation in Unity C#
 Created using Psudo Code Reference: [From Wikipedia](https://en.wikipedia.org/wiki/Flood_fill)
 
 ## Flood Fill Algo
